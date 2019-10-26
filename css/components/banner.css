@@ -1,0 +1,31 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url("../../images/pic_banner.jpg");
+	color: white;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-family: 'Amatic SC', cursive;
+	font-size: 75px;
+	text-align: center;
+}
+
+.banner h2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 28px;
+	font-weight: lighter;
+	opacity: 0.6;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.container1{
+	width: 700px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
